@@ -1,0 +1,8 @@
+# Book settings
+title: Deep Thought
+author: Daniel Correia
+logo: logo.png
+
+latex:
+  latex_documents:
+    targetname: deepthought.tex
