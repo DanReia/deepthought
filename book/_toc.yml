@@ -1,5 +1,9 @@
-- file: intro
-- file: content
-  sections:
-    - file: markdown
-    - file: notebooks
+- file: home
+
+- part: Getting Started
+  chapters:
+    - file: getting_started/installation
+- part: Causal Inference
+  numbered: true
+  chapters:
+    - file: causal_inference/causal_inference
